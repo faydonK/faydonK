@@ -14,11 +14,12 @@
   
 # 💌Contact me
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-  <!-- Banner Discord à gauche -->
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://discord.com/user/902342421910794250" target="_blank" rel="noopener noreferrer">
     <img src="https://discord.c99.nl/widget/theme-1/902342421910794250.png" alt="Discord Banner" style="height: 80px;" />
   </a>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
   <a href="mailto:hello@faydonk.dev" style="display: flex; align-items: center;">
     <img src="https://imgur.com/3gS5A92.png" alt="Contact icon" style="height: 130px; margin-left: 20px;" />
   </a>
